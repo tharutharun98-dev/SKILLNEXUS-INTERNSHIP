@@ -1,0 +1,81 @@
+CustomerID,CustomerName,Segment,State,RegionID
+CUST-001,Aarav Bose,Consumer,Jharkhand,R03
+CUST-002,Aarav Nair,Home Office,Bihar,R03
+CUST-003,Aarav Patel,Home Office,Karnataka,R02
+CUST-004,Aarav Rao,Home Office,Telangana,R02
+CUST-005,Aditya Das,Consumer,Telangana,R02
+CUST-006,Aditya Mehta,Consumer,Rajasthan,R01
+CUST-007,Aditya Menon,Consumer,Gujarat,R04
+CUST-008,Aditya Sharma,Consumer,Tamil Nadu,R02
+CUST-009,Aditya Verma,Corporate,West Bengal,R03
+CUST-010,Ananya Chatterjee,Corporate,Andhra Pradesh,R02
+CUST-011,Ananya Gupta,Consumer,Rajasthan,R04
+CUST-012,Ananya Joshi,Home Office,Haryana,R01
+CUST-013,Ananya Kumar,Corporate,Tamil Nadu,R02
+CUST-014,Ananya Mehta,Consumer,Rajasthan,R01
+CUST-015,Ananya Sharma,Corporate,Haryana,R01
+CUST-016,Arjun Mehta,Home Office,Chhattisgarh,R05
+CUST-017,Diya Chatterjee,Consumer,Maharashtra,R04
+CUST-018,Diya Mehta,Corporate,Karnataka,R02
+CUST-019,Diya Menon,Corporate,Assam,R03
+CUST-020,Diya Nair,Corporate,Maharashtra,R04
+CUST-021,Diya Sharma,Consumer,Kerala,R02
+CUST-022,Diya Shetty,Corporate,Bihar,R03
+CUST-023,Diya Verma,Corporate,Maharashtra,R04
+CUST-024,Isha Bose,Home Office,Kerala,R02
+CUST-025,Isha Chatterjee,Home Office,Assam,R03
+CUST-026,Isha Iyer,Consumer,Rajasthan,R04
+CUST-027,Isha Reddy,Corporate,Chhattisgarh,R05
+CUST-028,Karthik Das,Home Office,Rajasthan,R01
+CUST-029,Karthik Iyer,Home Office,Chhattisgarh,R05
+CUST-030,Karthik Shetty,Consumer,Delhi,R01
+CUST-031,Kavya Chatterjee,Consumer,Rajasthan,R04
+CUST-032,Kavya Mehta,Corporate,Rajasthan,R04
+CUST-033,Kavya Nair,Consumer,Rajasthan,R01
+CUST-034,Kavya Patel,Corporate,Andhra Pradesh,R02
+CUST-035,Kavya Rao,Home Office,Goa,R04
+CUST-036,Kavya Singh,Consumer,Uttar Pradesh,R01
+CUST-037,Meera Kapoor,Consumer,Jharkhand,R03
+CUST-038,Meera Kumar,Consumer,Goa,R04
+CUST-039,Meera Menon,Corporate,Jharkhand,R03
+CUST-040,Meera Shetty,Consumer,Rajasthan,R04
+CUST-041,Neha Gupta,Consumer,Tamil Nadu,R02
+CUST-042,Neha Iyer,Consumer,Delhi,R01
+CUST-043,Neha Kapoor,Corporate,Karnataka,R02
+CUST-044,Nikhil Bose,Home Office,Delhi,R01
+CUST-045,Nikhil Das,Consumer,Telangana,R02
+CUST-046,Nikhil Iyer,Consumer,Madhya Pradesh,R05
+CUST-047,Nikhil Kumar,Corporate,Odisha,R03
+CUST-048,Nikhil Nair,Consumer,Tamil Nadu,R02
+CUST-049,Nikhil Sharma,Consumer,Kerala,R02
+CUST-050,Nikhil Shetty,Consumer,Madhya Pradesh,R05
+CUST-051,Priya Gupta,Consumer,Andhra Pradesh,R02
+CUST-052,Priya Joshi,Consumer,Madhya Pradesh,R05
+CUST-053,Priya Mehta,Corporate,Jharkhand,R03
+CUST-054,Priya Reddy,Corporate,Bihar,R03
+CUST-055,Rahul Chatterjee,Consumer,Maharashtra,R04
+CUST-056,Rahul Patel,Consumer,Maharashtra,R04
+CUST-057,Riya Kapoor,Corporate,Odisha,R03
+CUST-058,Rohan Iyer,Consumer,Telangana,R02
+CUST-059,Rohan Mehta,Consumer,Maharashtra,R04
+CUST-060,Siddharth Kumar,Consumer,Karnataka,R02
+CUST-061,Siddharth Menon,Consumer,Madhya Pradesh,R05
+CUST-062,Siddharth Reddy,Home Office,Rajasthan,R01
+CUST-063,Siddharth Shetty,Consumer,Karnataka,R02
+CUST-064,Sneha Iyer,Consumer,West Bengal,R03
+CUST-065,Sneha Joshi,Home Office,Madhya Pradesh,R05
+CUST-066,Sneha Kapoor,Corporate,Tamil Nadu,R02
+CUST-067,Sneha Menon,Consumer,Goa,R04
+CUST-068,Sneha Patel,Consumer,Rajasthan,R04
+CUST-069,Sneha Reddy,Home Office,Rajasthan,R04
+CUST-070,Sneha Shetty,Consumer,Bihar,R03
+CUST-071,Sneha Verma,Corporate,Chhattisgarh,R05
+CUST-072,Tanvi Joshi,Consumer,Andhra Pradesh,R02
+CUST-073,Tanvi Nair,Corporate,Telangana,R02
+CUST-074,Varun Joshi,Corporate,Kerala,R02
+CUST-075,Varun Sharma,Home Office,Punjab,R01
+CUST-076,Varun Shetty,Corporate,Kerala,R02
+CUST-077,Vivaan Joshi,Consumer,Madhya Pradesh,R05
+CUST-078,Vivaan Nair,Consumer,Maharashtra,R04
+CUST-079,Vivaan Patel,Corporate,Rajasthan,R01
+CUST-080,Vivaan Singh,Corporate,Bihar,R03

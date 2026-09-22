@@ -1,0 +1,130 @@
+// =====================================================================
+//  Week 2 – DAX: Calendar table, relationships & data validation
+//  Project : Data Modeling & Relationships  |  Author : Tharuna B S
+// =====================================================================
+
+
+// ---------------------------------------------------------------------
+//  1. RELATIONSHIPS  (Model view -> drag field to field, or Manage relationships)
+// ---------------------------------------------------------------------
+//   Customers[CustomerID]  1 ──► *  Orders[CustomerID]
+//   Products[ProductID]    1 ──► *  Orders[ProductID]
+//   Regions[RegionID]      1 ──► *  Orders[RegionID]
+//   Calendar[Date]         1 ──► *  Orders[OrderDate]
+//
+//   All relationships: Cardinality = One-to-many, Cross filter = Single,
+//   "Make this relationship active" = checked (all four can stay active
+//   because each fact column points to a different dimension key).
+//
+//   This is a pure STAR SCHEMA: every dimension (Customers, Products,
+//   Regions, Calendar) connects straight to the single fact table
+//   (Orders) — there is no dimension-to-dimension chain, which is what
+//   would make it a snowflake schema instead.
+
+
+// ---------------------------------------------------------------------
+//  2. CALENDAR TABLE  (Modeling -> New table)
+//     As given in the assignment, extended with hierarchy columns.
+//     After creating it: Table tools -> Mark as date table -> [Date]
+// ---------------------------------------------------------------------
+
+Calendar = CALENDAR ( MIN ( Orders[OrderDate] ), MAX ( Orders[OrderDate] ) )
+
+// Add these as calculated columns ON the Calendar table so a
+// Year -> Month -> Day hierarchy can be built in the Fields pane:
+
+Year =
+YEAR ( 'Calendar'[Date] )
+
+MonthNumber =
+MONTH ( 'Calendar'[Date] )
+
+Month =
+FORMAT ( 'Calendar'[Date], "MMMM" )
+
+Day =
+DAY ( 'Calendar'[Date] )
+
+Quarter =
+"Q" & QUARTER ( 'Calendar'[Date] )
+
+// Build the hierarchy in the Fields pane:
+//   Right-click 'Calendar'[Year] -> Create Hierarchy -> name it "Date Hierarchy"
+//   Drag [Month] into the hierarchy, then drag [Day] into it
+//   -> Year -> Month -> Day
+// Then: select [Month] -> Column tools -> Sort by column -> [MonthNumber]
+// (otherwise months sort alphabetically: April, August, December...)
+
+
+// ---------------------------------------------------------------------
+//  3. CALCULATED COLUMNS  (table: Orders)
+// ---------------------------------------------------------------------
+
+Revenue =
+Orders[Quantity] * RELATED ( Products[UnitPrice] ) * ( 1 - Orders[Discount] )
+
+Cost =
+Orders[Quantity] * RELATED ( Products[UnitCost] )
+
+Profit =
+Orders[Revenue] - Orders[Cost]
+
+// Days to ship - also useful for the validation check below
+Days To Ship =
+DATEDIFF ( Orders[OrderDate], Orders[ShipDate], DAY )
+
+
+// ---------------------------------------------------------------------
+//  4. CORE MEASURES
+// ---------------------------------------------------------------------
+
+Total Revenue =
+SUM ( Orders[Revenue] )
+
+Total Profit =
+SUM ( Orders[Profit] )
+
+Total Orders =
+DISTINCTCOUNT ( Orders[OrderID] )
+
+Avg Days To Ship =
+AVERAGE ( Orders[Days To Ship] )
+
+
+// ---------------------------------------------------------------------
+//  5. DATA VALIDATION MEASURES
+//     (Week 2 topic: "Data Validation" — check the model is clean
+//     before trusting any visual built on top of it)
+// ---------------------------------------------------------------------
+
+// Should return 0. Counts orders shipped before they were ordered.
+Invalid Ship Dates =
+CALCULATE (
+    COUNTROWS ( Orders ),
+    FILTER ( Orders, Orders[ShipDate] < Orders[OrderDate] )
+)
+
+// Should return 0 once relationships are built correctly and the
+// Products table has no missing IDs. A number > 0 means an Orders row
+// references a ProductID that Products doesn't have (an orphan key),
+// so it will silently disappear from any Products-sliced visual.
+Orders Missing Product Match =
+CALCULATE (
+    COUNTROWS ( Orders ),
+    TREATAS ( VALUES ( Orders[ProductID] ), Products[ProductID] )
+) - [Total Orders]
+// (a simpler manual check: compare COUNTROWS(Orders) here vs the
+//  Total Orders card total once a Product slicer/visual is on the page —
+//  if the grand total drops, some ProductIDs don't match)
+
+// Should return TRUE. Confirms every CustomerID in Orders exists in Customers.
+All Customers Matched =
+COUNTROWS (
+    EXCEPT ( VALUES ( Orders[CustomerID] ), VALUES ( Customers[CustomerID] ) )
+) = 0
+
+// Should return TRUE. Confirms every RegionID in Orders exists in Regions.
+All Regions Matched =
+COUNTROWS (
+    EXCEPT ( VALUES ( Orders[RegionID] ), VALUES ( Regions[RegionID] ) )
+) = 0
