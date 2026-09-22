@@ -1,0 +1,13 @@
+ProductID,ProductName,Category,UnitPrice,UnitCost
+P001,Laptop,Technology,55000,43500
+P002,Smartphone,Technology,28000,22500
+P003,Wireless Headphones,Technology,4500,2400
+P004,Smart Watch,Technology,9500,5800
+P005,Tablet,Technology,32000,25500
+P006,Office Chair,Furniture,8500,5000
+P007,Standing Desk,Furniture,18000,11500
+P008,Bookshelf,Furniture,6500,4400
+P009,Printer,Office Supplies,12500,9600
+P010,Notebook Pack,Office Supplies,450,210
+P011,Ink Cartridge,Office Supplies,1800,1050
+P012,Desk Lamp,Office Supplies,1600,750

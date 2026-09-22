@@ -1,0 +1,61 @@
+CustomerID,CustomerName,Segment,City,State,Region
+C001,Aarav Iyer,Consumer,Chennai,Tamil Nadu,SOUTH
+C002,Ananya Bose,Consumer,Delhi,Delhi,North
+C003,Ananya Kapoor,Corporate,Kochi,Kerala,South
+C004,Ananya Menon,Consumer,Bengaluru,Karnataka,South
+C005,Ananya Patel,Home Office,Hyderabad,Telangana,South
+C006,Ananya Shetty,Corporate,Surat,Gujarat,WEST
+C007,Arjun Kapoor,Consumer,Bengaluru,Karnataka,South
+C008,Arjun Menon,Corporate,Chandigarh,Chandigarh,North
+C009,Arjun Rao,Consumer,Chennai,Tamil Nadu,South
+C010,Diya Bose,Home Office,Chennai,Tamil Nadu,South
+C011,Diya Iyer,Consumer,Mumbai,Maharashtra,West
+C012,Diya Reddy,Corporate,Bhubaneswar,Odisha,East
+C013,Diya Sharma,Consumer,Ahmedabad,Gujarat,West
+C014,Isha Chatterjee,Consumer,Mumbai,Maharashtra, West 
+C015,Isha Gupta,Consumer,Hyderabad,Telangana,South
+C016,Isha Iyer,Home Office,Ahmedabad,Gujarat,West
+C017,Isha Kumar,Corporate,Lucknow,Uttar Pradesh,North
+C018,Isha Singh,Consumer,Delhi,Delhi,North
+C019,Karthik Joshi,Consumer,Chandigarh,Chandigarh,North
+C020,Karthik Menon,Consumer,Pune,Maharashtra,West
+C021,Kavya Bose,Corporate,Kochi,Kerala,South
+C022,Kavya Das,Consumer,Lucknow,Uttar Pradesh,North
+C023,Kavya Joshi,Consumer,Kolkata,West Bengal,East
+C024,Kavya Mehta,Home Office,Lucknow,Uttar Pradesh,North
+C025,Meera Bose,Home Office,Mumbai,Maharashtra,West
+C026,Meera Iyer,Consumer,Kochi,Kerala,South
+C027,Neha Das,Corporate,Hyderabad,Telangana,South
+C028,Neha Menon,Consumer,Chennai,Tamil Nadu,South
+C029,Neha Singh,Corporate,Mumbai,Maharashtra,West
+C030,Priya Bose,Consumer,Hyderabad,Telangana,South
+C031,Priya Gupta,Corporate,Chandigarh,Chandigarh,North
+C032,Priya Menon,Corporate,Jaipur,Rajasthan,North
+C033,Priya Rao,Corporate,Nagpur,Maharashtra,Central
+C034,Rahul Reddy,Consumer,Bhopal,Madhya Pradesh,Central
+C035,Riya Joshi,Home Office,Pune,Maharashtra,West
+C036,Riya Menon,Consumer,Bengaluru,Karnataka,South
+C037,Riya Nair,Consumer,Nagpur,Maharashtra,central
+C038,Rohan Bose,Corporate,Ahmedabad,Gujarat,West
+C039,Rohan Iyer,Consumer,Pune,Maharashtra,West
+C040,Rohan Verma,Home Office,Kochi,Kerala,South
+C041,Siddharth Chatterjee,Home Office,Bengaluru,Karnataka,South
+C042,Siddharth Das,Consumer,Chandigarh,Chandigarh,North
+C043,Sneha Das,Home Office,Bhopal,Madhya Pradesh,Central
+C044,Sneha Gupta,Consumer,Kochi,Kerala,South
+C045,Sneha Nair,Corporate,Bengaluru,Karnataka,South
+C046,Sneha Sharma,Consumer,Chennai,Tamil Nadu,south
+C047,Tanvi Kumar,Home Office,Patna,Bihar,East
+C048,Tanvi Menon,Consumer,Lucknow,Uttar Pradesh,North
+C049,Tanvi Patel,Consumer,Surat,Gujarat,West
+C050,Tanvi Verma,Consumer,Pune,Maharashtra,West
+C051,Varun Gupta,Home Office,Pune,Maharashtra,West
+C052,Varun Rao,Home Office,Kochi,Kerala,South
+C053,Varun Singh,Corporate,Guwahati,Assam,East
+C054,Vivaan Bose,Home Office,Patna,Bihar,East
+C055,Vivaan Chatterjee,Home Office,Mumbai,Maharashtra, West 
+C056,Vivaan Das,Corporate,Chandigarh,Chandigarh,North
+C057,Vivaan Kumar,Consumer,Hyderabad,Telangana,South
+C058,Vivaan Mehta,Corporate,Delhi,Delhi,North
+C059,Vivaan Patel,Corporate,Kochi,Kerala,South
+C060,Vivaan Rao,Consumer,Chennai,Tamil Nadu,South

@@ -1,0 +1,15 @@
+# ---------------------------------------------------------------
+# Week 1 – Power BI Sales Dashboard | Requirements
+# ---------------------------------------------------------------
+# 1) Main tool (not installable via pip):
+#      Microsoft Power BI Desktop (free, Windows) – latest version
+#      https://powerbi.microsoft.com/desktop/
+#
+# 2) Optional Python helpers (dataset generator + dashboard preview)
+#      Python 3.9 or newer
+#      Install with:  pip install -r requirements.txt
+# ---------------------------------------------------------------
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+openpyxl>=3.1
