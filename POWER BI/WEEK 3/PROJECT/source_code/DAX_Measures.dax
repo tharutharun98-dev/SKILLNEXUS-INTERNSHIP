@@ -1,0 +1,34 @@
+// ============================================================
+// Week 3: DAX Functions & KPI Visuals
+// File: DAX_Measures.dax
+// Paste these into Power BI Desktop -> Modeling -> New Measure
+// Table assumed: "Sales" (loaded from dataset/retail_sales_data.xlsx)
+// ============================================================
+
+Total Sales = SUM(Sales[Sales])
+
+Total Profit = SUM(Sales[Profit])
+
+Profit Margin = DIVIDE([Total Profit], [Total Sales], 0)
+
+// ------------------------------------------------------------
+// Optional supporting measures used in this assignment
+// (SUMX / AVERAGE / CALCULATE examples referenced in the topics)
+// ------------------------------------------------------------
+
+Total Quantity = SUMX(Sales, Sales[Quantity])
+
+Average Sale Value = AVERAGE(Sales[Sales])
+
+Total Sales (Current Region) =
+CALCULATE(
+    [Total Sales],
+    ALLSELECTED(Sales[Region])
+)
+
+// ------------------------------------------------------------
+// Conditional formatting rule for KPI cards / tables:
+// Format -> Conditional formatting -> Font color / Background
+// Field: [Total Profit] or Profit column
+// Rule: If value < 0 -> Red (#D64545)
+// ------------------------------------------------------------

@@ -1,0 +1,27 @@
+# Requirements - Week 3: DAX Functions & KPI Visuals
+
+## Software
+- Power BI Desktop (latest version) - https://www.microsoft.com/power-bi/desktop
+- Windows 10/11 (Power BI Desktop is Windows-only)
+- Microsoft Excel or Excel Viewer (optional, to inspect the dataset)
+
+## Power BI Version Used
+- Power BI Desktop (Sept 2026 release or later recommended)
+
+## Dataset
+- dataset/retail_sales_data.xlsx (or .csv)
+- Columns: Order Date, Region, Category, Sales, Profit, Quantity, Discount
+
+## Skills / Concepts Required
+- Basic DAX syntax
+- SUM, SUMX, AVERAGE, CALCULATE, DIVIDE functions
+- Card visuals, Slicers, Conditional formatting
+
+## Setup Steps
+1. Open Power BI Desktop.
+2. Home -> Get Data -> Excel -> select dataset/retail_sales_data.xlsx.
+3. If prompted, click "Transform Data" -> "Use First Row as Headers", then "Close & Apply".
+4. Modeling -> New Measure -> paste each measure from source_code/DAX_Measures.dax.
+5. Insert 3 Card visuals for Total Sales, Total Profit, Profit Margin.
+6. Insert Slicer visuals for Region and Year.
+7. Apply conditional formatting on the Profit-related visuals: red font/background for negative values.
