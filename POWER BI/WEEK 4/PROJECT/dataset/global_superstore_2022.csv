@@ -1,0 +1,401 @@
+Order Date,Region,City,Latitude,Longitude,Segment,Category,Product Name,Customer Name,Sales,Profit,Quantity,Discount
+2023-01-01,West,Pune,18.5204,73.8567,Home Office,Clothing,Winter Jacket,Rohan Bose,4468.83,1291.29,11,0.15
+2023-01-01,South,Bengaluru,12.9716,77.5946,Corporate,Technology,Ergo Office Chair,Aditya Bose,1422.07,355.27,4,0.05
+2023-01-02,East,Bhubaneswar,20.2961,85.8245,Corporate,Furniture,Standing Desk,Aarav Das,815.65,66.05,5,0.0
+2023-01-05,East,Bhubaneswar,20.2961,85.8245,Consumer,Office Supplies,Laser Printer,Tara Mehta,2759.86,158.18,6,0.2
+2023-01-14,North,Chandigarh,30.7333,76.7794,Corporate,Clothing,Notebook Pack,Isha Reddy,1795.04,870.25,5,0.2
+2023-01-14,East,Kolkata,22.5726,88.3639,Corporate,Technology,Notebook Pack,Arjun Iyer,245.21,50.05,7,0.0
+2023-01-20,North,Delhi,28.7041,77.1025,Corporate,Furniture,Whiteboard,Rohan Das,601.44,65.61,8,0.0
+2023-01-22,East,Bhubaneswar,20.2961,85.8245,Corporate,Furniture,Office Sofa,Neha Joshi,2787.21,151.75,10,0.1
+2023-01-23,South,Bengaluru,12.9716,77.5946,Consumer,Electronics,Office Sofa,Priya Iyer,525.02,76.95,1,0.1
+2023-01-26,East,Kolkata,22.5726,88.3639,Corporate,Clothing,External Hard Drive,Kabir Gupta,4895.87,486.65,15,0.15
+2023-01-27,North,Chandigarh,30.7333,76.7794,Home Office,Office Supplies,LED Desk Lamp,Arjun Rao,4792.16,1354.02,10,0.2
+2023-01-28,West,Pune,18.5204,73.8567,Home Office,Clothing,Laser Printer,Vivaan Bose,3365.67,-45.61,7,0.0
+2023-01-29,East,Bhubaneswar,20.2961,85.8245,Corporate,Electronics,Office Sofa,Dev Joshi,5913.4,474.93,15,0.1
+2023-01-29,North,Chandigarh,30.7333,76.7794,Corporate,Technology,Standing Desk,Sara Singh,2501.32,616.27,9,0.15
+2023-01-29,North,Chandigarh,30.7333,76.7794,Consumer,Clothing,Office Sofa,Kabir Khan,3211.42,430.23,9,0.3
+2023-01-29,South,Bengaluru,12.9716,77.5946,Home Office,Office Supplies,4-Drawer Cabinet,Diya Khan,1861.04,622.98,10,0.2
+2023-02-01,South,Chennai,13.0827,80.2707,Consumer,Electronics,Winter Jacket,Priya Sharma,3153.52,1137.95,15,0.05
+2023-02-01,East,Kolkata,22.5726,88.3639,Corporate,Office Supplies,Bluetooth Speaker,Rohan Nair,699.52,18.42,4,0.15
+2023-02-01,East,Bhubaneswar,20.2961,85.8245,Home Office,Technology,Ergo Office Chair,Isha Sharma,1902.05,335.66,4,0.2
+2023-02-01,West,Mumbai,19.076,72.8777,Home Office,Office Supplies,Wireless Mouse,Priya Sharma,412.88,102.71,8,0.0
+2023-02-02,East,Bhubaneswar,20.2961,85.8245,Corporate,Clothing,Whiteboard,Kabir Verma,60.77,23.3,1,0.0
+2023-02-03,North,Delhi,28.7041,77.1025,Consumer,Technology,Laser Printer,Diya Joshi,2653.64,-24.7,6,0.05
+2023-02-03,East,Kolkata,22.5726,88.3639,Home Office,Furniture,Office Sofa,Meera Singh,2406.1,387.05,10,0.0
+2023-02-04,South,Chennai,13.0827,80.2707,Home Office,Electronics,Mechanical Keyboard,Isha Bose,2143.02,270.81,11,0.15
+2023-02-05,East,Bhubaneswar,20.2961,85.8245,Home Office,Technology,Wireless Mouse,Isha Patel,542.95,69.04,2,0.15
+2023-02-09,East,Kolkata,22.5726,88.3639,Consumer,Electronics,Office Sofa,Isha Bose,2681.09,875.38,10,0.05
+2023-02-10,West,Pune,18.5204,73.8567,Consumer,Electronics,Office Sofa,Aarav Sharma,4169.54,994.79,14,0.2
+2023-02-16,North,Delhi,28.7041,77.1025,Consumer,Technology,Office Sofa,Arjun Verma,1914.6,455.58,9,0.05
+2023-02-16,South,Bengaluru,12.9716,77.5946,Corporate,Office Supplies,Notebook Pack,Aditya Rao,895.0,-58.53,5,0.2
+2023-02-19,East,Bhubaneswar,20.2961,85.8245,Home Office,Technology,27in Monitor,Sara Rao,3974.05,1051.85,11,0.3
+2023-02-19,West,Mumbai,19.076,72.8777,Corporate,Office Supplies,Whiteboard,Aditya Das,2922.97,164.34,11,0.05
+2023-02-21,North,Delhi,28.7041,77.1025,Corporate,Clothing,Ergo Office Chair,Dev Joshi,724.38,68.3,2,0.2
+2023-02-22,South,Chennai,13.0827,80.2707,Consumer,Technology,Office Sofa,Kabir Iyer,867.5,58.59,6,0.2
+2023-02-26,North,Delhi,28.7041,77.1025,Corporate,Office Supplies,4-Drawer Cabinet,Sara Reddy,2605.98,810.42,11,0.1
+2023-02-27,East,Bhubaneswar,20.2961,85.8245,Home Office,Technology,Denim Jeans,Rohan Iyer,228.45,45.93,15,0.0
+2023-03-09,West,Mumbai,19.076,72.8777,Consumer,Electronics,Standing Desk,Isha Sharma,399.22,8.79,1,0.3
+2023-03-10,East,Bhubaneswar,20.2961,85.8245,Home Office,Furniture,Winter Jacket,Dev Nair,4428.1,387.47,12,0.2
+2023-03-16,South,Chennai,13.0827,80.2707,Consumer,Electronics,LED Desk Lamp,Isha Joshi,1185.68,36.53,3,0.3
+2023-03-21,East,Kolkata,22.5726,88.3639,Corporate,Furniture,Winter Jacket,Aarav Khan,503.32,35.3,2,0.1
+2023-03-23,West,Pune,18.5204,73.8567,Corporate,Technology,External Hard Drive,Tara Khan,6215.43,53.28,13,0.0
+2023-03-26,West,Mumbai,19.076,72.8777,Consumer,Furniture,External Hard Drive,Aarav Sharma,4472.38,-821.51,11,0.0
+2023-03-29,North,Delhi,28.7041,77.1025,Corporate,Electronics,Standing Desk,Kabir Das,2629.31,-472.85,15,0.15
+2023-03-30,North,Delhi,28.7041,77.1025,Corporate,Technology,Mechanical Keyboard,Dev Rao,1756.83,396.59,11,0.2
+2023-03-31,East,Bhubaneswar,20.2961,85.8245,Consumer,Electronics,27in Monitor,Meera Patel,1144.04,273.77,6,0.1
+2023-03-31,North,Chandigarh,30.7333,76.7794,Consumer,Clothing,Whiteboard,Meera Nair,2276.28,615.72,6,0.15
+2023-04-01,East,Kolkata,22.5726,88.3639,Home Office,Electronics,4-Drawer Cabinet,Sara Bose,504.83,127.34,2,0.1
+2023-04-04,South,Chennai,13.0827,80.2707,Home Office,Clothing,External Hard Drive,Arjun Khan,1297.2,527.71,5,0.0
+2023-04-04,West,Mumbai,19.076,72.8777,Consumer,Electronics,External Hard Drive,Arjun Mehta,3021.2,-797.19,13,0.0
+2023-04-05,East,Kolkata,22.5726,88.3639,Corporate,Office Supplies,Whiteboard,Anaya Patel,6879.46,2893.48,14,0.0
+2023-04-08,West,Pune,18.5204,73.8567,Home Office,Electronics,External Hard Drive,Isha Sharma,2592.35,521.52,7,0.2
+2023-04-15,West,Mumbai,19.076,72.8777,Consumer,Technology,Whiteboard,Vivaan Bose,1305.81,249.81,11,0.1
+2023-04-16,East,Bhubaneswar,20.2961,85.8245,Home Office,Technology,LED Desk Lamp,Dev Khan,316.58,35.89,2,0.1
+2023-04-16,South,Chennai,13.0827,80.2707,Consumer,Electronics,Ergo Office Chair,Sara Reddy,1232.72,417.76,5,0.2
+2023-04-18,East,Kolkata,22.5726,88.3639,Home Office,Furniture,27in Monitor,Neha Das,5692.14,1068.7,15,0.1
+2023-04-19,West,Pune,18.5204,73.8567,Home Office,Office Supplies,LED Desk Lamp,Meera Reddy,551.04,120.66,6,0.3
+2023-04-19,East,Kolkata,22.5726,88.3639,Consumer,Clothing,Mechanical Keyboard,Diya Sharma,2399.72,-263.4,4,0.0
+2023-04-22,West,Mumbai,19.076,72.8777,Consumer,Office Supplies,External Hard Drive,Vivaan Mehta,1662.99,190.77,3,0.0
+2023-04-23,East,Kolkata,22.5726,88.3639,Home Office,Technology,Whiteboard,Isha Das,693.23,65.48,9,0.05
+2023-04-23,East,Kolkata,22.5726,88.3639,Consumer,Technology,Standing Desk,Rohan Reddy,3746.8,476.58,10,0.2
+2023-04-24,East,Bhubaneswar,20.2961,85.8245,Home Office,Office Supplies,Laser Printer,Arjun Bose,1167.59,152.51,9,0.05
+2023-04-26,North,Delhi,28.7041,77.1025,Corporate,Clothing,Standing Desk,Dev Sharma,7061.58,2244.84,14,0.15
+2023-04-27,North,Chandigarh,30.7333,76.7794,Consumer,Furniture,Notebook Pack,Kabir Iyer,3526.05,434.8,9,0.3
+2023-05-01,West,Pune,18.5204,73.8567,Home Office,Electronics,External Hard Drive,Sara Bose,3147.47,396.89,10,0.15
+2023-05-05,North,Chandigarh,30.7333,76.7794,Consumer,Technology,Bluetooth Speaker,Rohan Iyer,2695.85,415.43,11,0.3
+2023-05-07,South,Bengaluru,12.9716,77.5946,Home Office,Technology,Winter Jacket,Vivaan Reddy,323.62,50.45,1,0.05
+2023-05-08,North,Delhi,28.7041,77.1025,Consumer,Technology,Denim Jeans,Kabir Sharma,4587.97,-630.3,15,0.3
+2023-05-10,North,Chandigarh,30.7333,76.7794,Home Office,Clothing,Cotton T-Shirt,Dev Khan,3839.46,-485.69,9,0.05
+2023-05-11,North,Chandigarh,30.7333,76.7794,Home Office,Office Supplies,Denim Jeans,Aarav Verma,3131.46,349.81,7,0.2
+2023-05-16,East,Kolkata,22.5726,88.3639,Home Office,Office Supplies,27in Monitor,Karan Iyer,1633.28,589.26,11,0.0
+2023-05-16,East,Kolkata,22.5726,88.3639,Home Office,Clothing,Bluetooth Speaker,Tara Singh,206.71,27.3,7,0.0
+2023-05-17,East,Kolkata,22.5726,88.3639,Consumer,Technology,Office Sofa,Vivaan Iyer,2228.45,571.89,12,0.2
+2023-05-18,North,Delhi,28.7041,77.1025,Consumer,Electronics,Laser Printer,Kabir Verma,807.6,89.23,5,0.0
+2023-05-19,South,Chennai,13.0827,80.2707,Home Office,Furniture,Ergo Office Chair,Vivaan Nair,1057.92,132.86,2,0.0
+2023-05-21,South,Chennai,13.0827,80.2707,Home Office,Office Supplies,Bluetooth Speaker,Rohan Sharma,3587.07,-950.33,9,0.05
+2023-05-28,East,Bhubaneswar,20.2961,85.8245,Consumer,Technology,Notebook Pack,Rohan Nair,208.33,16.61,6,0.05
+2023-05-29,South,Bengaluru,12.9716,77.5946,Consumer,Furniture,4-Drawer Cabinet,Kabir Rao,3177.86,370.65,8,0.2
+2023-05-31,East,Kolkata,22.5726,88.3639,Corporate,Furniture,Office Sofa,Isha Rao,141.58,19.97,3,0.15
+2023-06-02,East,Bhubaneswar,20.2961,85.8245,Corporate,Technology,Office Sofa,Vivaan Iyer,828.52,240.8,8,0.3
+2023-06-03,South,Bengaluru,12.9716,77.5946,Consumer,Technology,Wireless Mouse,Neha Verma,2048.03,515.81,7,0.2
+2023-06-03,East,Kolkata,22.5726,88.3639,Consumer,Technology,External Hard Drive,Diya Rao,4030.78,787.87,13,0.0
+2023-06-04,South,Chennai,13.0827,80.2707,Home Office,Clothing,External Hard Drive,Sara Reddy,776.44,213.92,2,0.0
+2023-06-05,West,Pune,18.5204,73.8567,Consumer,Furniture,Mechanical Keyboard,Neha Das,1741.01,-288.75,6,0.2
+2023-06-07,North,Delhi,28.7041,77.1025,Home Office,Office Supplies,LED Desk Lamp,Isha Patel,1555.51,399.4,13,0.1
+2023-06-11,East,Bhubaneswar,20.2961,85.8245,Consumer,Clothing,Office Sofa,Neha Rao,853.2,47.41,6,0.1
+2023-06-15,East,Bhubaneswar,20.2961,85.8245,Corporate,Technology,Office Sofa,Arjun Iyer,513.09,-86.39,9,0.0
+2023-06-15,North,Delhi,28.7041,77.1025,Home Office,Clothing,Cotton T-Shirt,Aarav Joshi,1193.09,-148.87,9,0.3
+2023-06-16,South,Bengaluru,12.9716,77.5946,Home Office,Office Supplies,Winter Jacket,Neha Gupta,894.48,369.56,4,0.0
+2023-06-20,West,Pune,18.5204,73.8567,Home Office,Clothing,Cotton T-Shirt,Anaya Bose,1360.78,162.1,9,0.15
+2023-06-21,North,Chandigarh,30.7333,76.7794,Consumer,Office Supplies,Standing Desk,Aditya Das,3801.98,11.12,14,0.0
+2023-06-22,North,Chandigarh,30.7333,76.7794,Home Office,Technology,Mechanical Keyboard,Priya Iyer,4928.42,1157.78,11,0.1
+2023-06-22,West,Mumbai,19.076,72.8777,Consumer,Furniture,Whiteboard,Meera Joshi,101.48,30.03,1,0.05
+2023-06-25,North,Delhi,28.7041,77.1025,Corporate,Office Supplies,Standing Desk,Arjun Iyer,6743.73,661.98,14,0.15
+2023-06-26,South,Chennai,13.0827,80.2707,Home Office,Furniture,Wireless Mouse,Neha Khan,2489.85,854.13,9,0.15
+2023-06-28,East,Bhubaneswar,20.2961,85.8245,Consumer,Office Supplies,Laser Printer,Aarav Nair,3264.0,952.45,15,0.15
+2023-06-29,South,Bengaluru,12.9716,77.5946,Home Office,Electronics,LED Desk Lamp,Meera Sharma,671.94,105.53,2,0.2
+2023-06-30,North,Chandigarh,30.7333,76.7794,Home Office,Clothing,LED Desk Lamp,Neha Das,429.47,58.56,1,0.05
+2023-07-06,West,Mumbai,19.076,72.8777,Corporate,Furniture,27in Monitor,Diya Sharma,1562.63,344.3,3,0.05
+2023-07-08,West,Mumbai,19.076,72.8777,Home Office,Technology,Office Sofa,Vivaan Patel,1191.85,267.12,5,0.0
+2023-07-14,North,Delhi,28.7041,77.1025,Home Office,Clothing,Notebook Pack,Aditya Nair,1034.4,8.7,7,0.1
+2023-07-14,East,Kolkata,22.5726,88.3639,Corporate,Furniture,LED Desk Lamp,Sara Khan,169.99,48.77,4,0.3
+2023-07-16,West,Pune,18.5204,73.8567,Consumer,Technology,Ergo Office Chair,Aarav Rao,2690.46,-457.49,5,0.1
+2023-07-17,West,Mumbai,19.076,72.8777,Consumer,Clothing,External Hard Drive,Dev Patel,4146.39,977.47,13,0.05
+2023-07-18,North,Chandigarh,30.7333,76.7794,Home Office,Electronics,Whiteboard,Sara Joshi,5250.44,1157.61,13,0.0
+2023-07-22,South,Chennai,13.0827,80.2707,Home Office,Furniture,Ergo Office Chair,Tara Sharma,2321.64,228.24,8,0.1
+2023-07-22,West,Mumbai,19.076,72.8777,Consumer,Office Supplies,4-Drawer Cabinet,Vivaan Singh,2852.28,399.16,9,0.05
+2023-07-23,North,Delhi,28.7041,77.1025,Corporate,Clothing,LED Desk Lamp,Diya Sharma,363.53,48.33,8,0.1
+2023-07-25,West,Pune,18.5204,73.8567,Corporate,Technology,4-Drawer Cabinet,Meera Iyer,1319.66,326.16,8,0.05
+2023-07-25,South,Chennai,13.0827,80.2707,Corporate,Office Supplies,Standing Desk,Meera Sharma,564.33,144.15,3,0.3
+2023-07-25,North,Delhi,28.7041,77.1025,Consumer,Office Supplies,Winter Jacket,Dev Khan,488.42,136.44,1,0.0
+2023-07-26,East,Bhubaneswar,20.2961,85.8245,Home Office,Electronics,LED Desk Lamp,Dev Rao,1178.79,-185.66,11,0.1
+2023-08-06,South,Bengaluru,12.9716,77.5946,Consumer,Clothing,Office Sofa,Karan Gupta,3921.99,1037.58,13,0.05
+2023-08-07,North,Delhi,28.7041,77.1025,Corporate,Furniture,Wireless Mouse,Kabir Gupta,3891.1,169.89,8,0.1
+2023-08-08,North,Delhi,28.7041,77.1025,Corporate,Office Supplies,4-Drawer Cabinet,Rohan Verma,1896.05,125.39,9,0.2
+2023-08-10,North,Chandigarh,30.7333,76.7794,Consumer,Office Supplies,Ergo Office Chair,Meera Patel,5902.65,-435.81,13,0.0
+2023-08-12,North,Delhi,28.7041,77.1025,Corporate,Furniture,Notebook Pack,Rohan Singh,5404.32,-521.92,12,0.0
+2023-08-12,East,Kolkata,22.5726,88.3639,Consumer,Clothing,Winter Jacket,Aditya Singh,1468.32,725.59,5,0.05
+2023-08-14,West,Mumbai,19.076,72.8777,Corporate,Furniture,Bluetooth Speaker,Rohan Reddy,86.6,28.2,1,0.2
+2023-08-15,West,Mumbai,19.076,72.8777,Home Office,Clothing,Whiteboard,Arjun Mehta,2083.25,461.19,8,0.1
+2023-08-19,South,Chennai,13.0827,80.2707,Corporate,Clothing,Cotton T-Shirt,Meera Mehta,4098.0,227.12,10,0.2
+2023-08-20,North,Delhi,28.7041,77.1025,Corporate,Furniture,Whiteboard,Diya Bose,2123.6,960.53,9,0.3
+2023-08-21,West,Mumbai,19.076,72.8777,Home Office,Clothing,External Hard Drive,Karan Khan,824.54,185.35,7,0.1
+2023-08-23,North,Chandigarh,30.7333,76.7794,Corporate,Technology,Winter Jacket,Diya Reddy,1783.39,681.03,7,0.15
+2023-08-24,East,Kolkata,22.5726,88.3639,Home Office,Clothing,Notebook Pack,Rohan Sharma,54.41,-2.63,1,0.3
+2023-08-25,West,Pune,18.5204,73.8567,Corporate,Furniture,Denim Jeans,Arjun Joshi,263.15,63.23,1,0.3
+2023-08-27,North,Chandigarh,30.7333,76.7794,Consumer,Office Supplies,Laser Printer,Karan Reddy,1736.52,-159.5,12,0.0
+2023-08-30,East,Kolkata,22.5726,88.3639,Consumer,Electronics,Office Sofa,Karan Gupta,239.09,17.54,2,0.1
+2023-08-31,North,Chandigarh,30.7333,76.7794,Consumer,Clothing,Office Sofa,Kabir Verma,290.13,16.41,1,0.2
+2023-09-09,East,Bhubaneswar,20.2961,85.8245,Corporate,Furniture,Mechanical Keyboard,Neha Joshi,2353.57,-13.03,8,0.05
+2023-09-10,North,Chandigarh,30.7333,76.7794,Corporate,Furniture,Office Sofa,Dev Joshi,170.16,54.28,2,0.2
+2023-09-11,South,Bengaluru,12.9716,77.5946,Consumer,Electronics,LED Desk Lamp,Meera Nair,468.73,30.49,2,0.05
+2023-09-12,North,Delhi,28.7041,77.1025,Corporate,Furniture,Cotton T-Shirt,Priya Mehta,220.93,42.58,1,0.1
+2023-09-18,North,Chandigarh,30.7333,76.7794,Consumer,Electronics,Winter Jacket,Aditya Sharma,31.82,10.59,1,0.1
+2023-09-19,East,Bhubaneswar,20.2961,85.8245,Home Office,Electronics,LED Desk Lamp,Tara Rao,2567.67,-160.21,11,0.05
+2023-09-21,South,Bengaluru,12.9716,77.5946,Home Office,Clothing,Office Sofa,Sara Nair,283.5,77.05,10,0.3
+2023-09-22,South,Bengaluru,12.9716,77.5946,Home Office,Office Supplies,Winter Jacket,Anaya Das,1116.58,189.32,9,0.1
+2023-09-23,North,Delhi,28.7041,77.1025,Corporate,Technology,Notebook Pack,Neha Patel,578.88,94.39,4,0.15
+2023-09-24,South,Chennai,13.0827,80.2707,Consumer,Electronics,Denim Jeans,Kabir Verma,4334.47,436.88,11,0.15
+2023-09-24,North,Chandigarh,30.7333,76.7794,Consumer,Office Supplies,Laser Printer,Sara Bose,2081.87,596.6,7,0.0
+2023-09-25,West,Pune,18.5204,73.8567,Home Office,Electronics,Winter Jacket,Meera Iyer,4450.67,1837.53,14,0.3
+2023-10-03,West,Mumbai,19.076,72.8777,Consumer,Furniture,4-Drawer Cabinet,Diya Das,1362.1,-263.08,9,0.1
+2023-10-04,South,Chennai,13.0827,80.2707,Home Office,Clothing,Winter Jacket,Diya Rao,4030.91,1214.64,15,0.15
+2023-10-07,South,Bengaluru,12.9716,77.5946,Corporate,Clothing,4-Drawer Cabinet,Vivaan Reddy,309.6,-32.41,9,0.2
+2023-10-14,North,Chandigarh,30.7333,76.7794,Home Office,Furniture,Cotton T-Shirt,Arjun Mehta,3898.16,59.13,7,0.05
+2023-10-15,South,Chennai,13.0827,80.2707,Corporate,Furniture,Ergo Office Chair,Priya Bose,3339.07,1157.15,13,0.05
+2023-10-17,North,Delhi,28.7041,77.1025,Consumer,Furniture,Cotton T-Shirt,Vivaan Verma,781.66,207.05,2,0.2
+2023-10-17,East,Bhubaneswar,20.2961,85.8245,Corporate,Electronics,Notebook Pack,Kabir Sharma,1732.84,102.96,6,0.3
+2023-10-18,West,Mumbai,19.076,72.8777,Consumer,Electronics,Bluetooth Speaker,Isha Sharma,963.63,114.14,2,0.15
+2023-10-20,South,Bengaluru,12.9716,77.5946,Corporate,Office Supplies,Mechanical Keyboard,Meera Joshi,2418.98,-156.86,6,0.15
+2023-10-21,South,Chennai,13.0827,80.2707,Corporate,Furniture,External Hard Drive,Meera Patel,1146.65,53.68,10,0.05
+2023-10-21,North,Delhi,28.7041,77.1025,Consumer,Furniture,Wireless Mouse,Neha Reddy,5004.73,98.6,13,0.3
+2023-10-24,West,Mumbai,19.076,72.8777,Home Office,Furniture,LED Desk Lamp,Kabir Verma,3316.92,740.84,10,0.05
+2023-10-26,North,Chandigarh,30.7333,76.7794,Home Office,Electronics,Wireless Mouse,Priya Sharma,1042.91,154.0,10,0.05
+2023-10-28,South,Bengaluru,12.9716,77.5946,Corporate,Technology,Mechanical Keyboard,Diya Singh,381.52,89.88,1,0.2
+2023-11-04,North,Delhi,28.7041,77.1025,Corporate,Clothing,Whiteboard,Tara Reddy,2560.9,361.55,6,0.05
+2023-11-07,South,Bengaluru,12.9716,77.5946,Corporate,Clothing,Whiteboard,Karan Joshi,3780.3,108.66,13,0.2
+2023-11-08,South,Bengaluru,12.9716,77.5946,Home Office,Technology,Cotton T-Shirt,Priya Joshi,2226.66,374.65,6,0.15
+2023-11-13,North,Chandigarh,30.7333,76.7794,Corporate,Electronics,Notebook Pack,Aarav Joshi,1987.51,1036.45,7,0.0
+2023-11-16,East,Bhubaneswar,20.2961,85.8245,Corporate,Furniture,Office Sofa,Meera Gupta,3022.92,538.78,12,0.0
+2023-11-18,North,Chandigarh,30.7333,76.7794,Home Office,Office Supplies,Mechanical Keyboard,Rohan Sharma,908.0,29.3,4,0.2
+2023-11-18,North,Delhi,28.7041,77.1025,Corporate,Technology,Mechanical Keyboard,Vivaan Patel,1730.56,-429.98,4,0.1
+2023-11-19,North,Chandigarh,30.7333,76.7794,Consumer,Technology,Laser Printer,Rohan Mehta,2491.22,508.12,7,0.05
+2023-11-24,West,Mumbai,19.076,72.8777,Home Office,Furniture,Standing Desk,Karan Sharma,5168.75,-563.58,13,0.15
+2023-11-27,South,Chennai,13.0827,80.2707,Consumer,Clothing,Cotton T-Shirt,Neha Reddy,404.71,48.16,12,0.3
+2023-11-28,West,Pune,18.5204,73.8567,Home Office,Electronics,Winter Jacket,Aditya Joshi,455.91,-9.67,13,0.3
+2023-11-28,East,Bhubaneswar,20.2961,85.8245,Corporate,Clothing,Standing Desk,Arjun Sharma,288.5,102.75,13,0.2
+2023-11-28,South,Chennai,13.0827,80.2707,Home Office,Furniture,4-Drawer Cabinet,Isha Nair,391.44,177.83,10,0.2
+2023-11-30,East,Bhubaneswar,20.2961,85.8245,Consumer,Furniture,Office Sofa,Dev Khan,3934.4,295.22,10,0.2
+2023-12-03,South,Chennai,13.0827,80.2707,Home Office,Technology,Denim Jeans,Tara Bose,3807.99,631.62,9,0.0
+2023-12-04,South,Bengaluru,12.9716,77.5946,Consumer,Office Supplies,Bluetooth Speaker,Meera Rao,1784.0,317.16,8,0.0
+2023-12-05,South,Chennai,13.0827,80.2707,Home Office,Clothing,Cotton T-Shirt,Aditya Joshi,198.67,-17.57,1,0.2
+2023-12-06,East,Bhubaneswar,20.2961,85.8245,Corporate,Office Supplies,Cotton T-Shirt,Arjun Bose,1366.22,101.58,6,0.3
+2023-12-13,North,Chandigarh,30.7333,76.7794,Corporate,Technology,Office Sofa,Diya Khan,2775.33,1134.79,9,0.05
+2023-12-16,South,Bengaluru,12.9716,77.5946,Consumer,Clothing,Ergo Office Chair,Neha Sharma,568.71,108.0,4,0.3
+2023-12-23,South,Bengaluru,12.9716,77.5946,Corporate,Electronics,Notebook Pack,Isha Iyer,696.2,80.14,11,0.15
+2023-12-26,West,Mumbai,19.076,72.8777,Home Office,Electronics,Winter Jacket,Karan Joshi,2327.52,989.95,14,0.15
+2023-12-27,South,Chennai,13.0827,80.2707,Home Office,Electronics,Standing Desk,Karan Verma,1472.13,167.78,11,0.0
+2023-12-30,North,Chandigarh,30.7333,76.7794,Home Office,Clothing,Mechanical Keyboard,Aditya Khan,4108.72,1843.67,13,0.05
+2023-12-30,West,Pune,18.5204,73.8567,Corporate,Technology,Notebook Pack,Karan Reddy,3332.23,836.19,11,0.0
+2024-01-01,West,Mumbai,19.076,72.8777,Corporate,Clothing,Laser Printer,Sara Patel,243.67,3.13,9,0.05
+2024-01-03,West,Mumbai,19.076,72.8777,Consumer,Furniture,Laser Printer,Diya Reddy,1416.52,341.32,11,0.15
+2024-01-07,South,Chennai,13.0827,80.2707,Corporate,Office Supplies,Whiteboard,Sara Joshi,4055.1,807.85,13,0.1
+2024-01-08,South,Bengaluru,12.9716,77.5946,Corporate,Electronics,Laser Printer,Diya Bose,2188.88,1367.91,11,0.3
+2024-01-10,South,Bengaluru,12.9716,77.5946,Corporate,Technology,Denim Jeans,Dev Khan,8034.75,2262.65,15,0.0
+2024-01-17,North,Delhi,28.7041,77.1025,Home Office,Furniture,Standing Desk,Tara Khan,2147.63,17.17,9,0.1
+2024-01-18,North,Chandigarh,30.7333,76.7794,Consumer,Furniture,Office Sofa,Vivaan Sharma,4134.44,865.57,12,0.05
+2024-01-21,West,Pune,18.5204,73.8567,Home Office,Electronics,Whiteboard,Arjun Das,182.78,63.03,1,0.1
+2024-02-05,North,Chandigarh,30.7333,76.7794,Corporate,Electronics,LED Desk Lamp,Rohan Khan,3600.4,-406.89,9,0.05
+2024-02-07,West,Mumbai,19.076,72.8777,Corporate,Office Supplies,Notebook Pack,Vivaan Patel,63.28,-0.64,2,0.3
+2024-02-10,East,Kolkata,22.5726,88.3639,Home Office,Furniture,Cotton T-Shirt,Arjun Das,649.96,432.22,5,0.2
+2024-02-10,East,Kolkata,22.5726,88.3639,Corporate,Technology,Winter Jacket,Neha Gupta,586.19,154.23,11,0.0
+2024-02-11,South,Bengaluru,12.9716,77.5946,Home Office,Office Supplies,External Hard Drive,Vivaan Gupta,422.54,115.32,1,0.1
+2024-02-15,North,Delhi,28.7041,77.1025,Consumer,Electronics,Whiteboard,Kabir Verma,2198.58,-245.33,6,0.0
+2024-02-15,South,Chennai,13.0827,80.2707,Home Office,Office Supplies,Mechanical Keyboard,Priya Bose,333.58,5.59,9,0.2
+2024-02-18,South,Chennai,13.0827,80.2707,Home Office,Clothing,Winter Jacket,Kabir Joshi,1764.26,-4.0,13,0.2
+2024-02-22,North,Chandigarh,30.7333,76.7794,Corporate,Clothing,Denim Jeans,Aditya Sharma,3257.51,374.36,7,0.15
+2024-02-25,East,Bhubaneswar,20.2961,85.8245,Corporate,Clothing,External Hard Drive,Priya Iyer,2737.95,-143.12,7,0.15
+2024-02-27,South,Bengaluru,12.9716,77.5946,Home Office,Technology,27in Monitor,Karan Mehta,4260.96,-435.71,11,0.0
+2024-02-28,East,Kolkata,22.5726,88.3639,Consumer,Clothing,Denim Jeans,Kabir Iyer,534.76,115.08,1,0.05
+2024-03-06,South,Bengaluru,12.9716,77.5946,Home Office,Technology,Ergo Office Chair,Dev Joshi,1057.35,17.28,3,0.05
+2024-03-08,East,Kolkata,22.5726,88.3639,Corporate,Electronics,Whiteboard,Arjun Nair,971.32,363.31,4,0.1
+2024-03-08,South,Bengaluru,12.9716,77.5946,Corporate,Electronics,Cotton T-Shirt,Sara Bose,4432.7,20.69,13,0.3
+2024-03-11,South,Chennai,13.0827,80.2707,Consumer,Furniture,External Hard Drive,Neha Verma,153.14,22.13,8,0.05
+2024-03-12,North,Delhi,28.7041,77.1025,Corporate,Technology,4-Drawer Cabinet,Meera Verma,1502.39,836.52,7,0.3
+2024-03-13,South,Bengaluru,12.9716,77.5946,Consumer,Furniture,Laser Printer,Neha Rao,363.2,36.0,2,0.1
+2024-03-16,North,Delhi,28.7041,77.1025,Home Office,Technology,Mechanical Keyboard,Diya Das,843.6,193.13,4,0.05
+2024-03-17,North,Chandigarh,30.7333,76.7794,Home Office,Technology,Wireless Mouse,Isha Joshi,2378.1,878.65,13,0.3
+2024-03-17,South,Bengaluru,12.9716,77.5946,Consumer,Office Supplies,LED Desk Lamp,Rohan Das,196.94,39.09,5,0.05
+2024-03-18,East,Kolkata,22.5726,88.3639,Consumer,Furniture,Winter Jacket,Arjun Gupta,1153.74,110.79,15,0.3
+2024-03-20,South,Chennai,13.0827,80.2707,Consumer,Furniture,Winter Jacket,Karan Singh,1431.17,657.18,13,0.0
+2024-03-22,West,Mumbai,19.076,72.8777,Consumer,Clothing,Mechanical Keyboard,Rohan Nair,2334.76,358.35,4,0.0
+2024-03-23,South,Chennai,13.0827,80.2707,Consumer,Office Supplies,4-Drawer Cabinet,Kabir Iyer,30.74,-2.78,1,0.0
+2024-03-24,South,Bengaluru,12.9716,77.5946,Consumer,Technology,Denim Jeans,Dev Reddy,3139.49,574.28,8,0.15
+2024-03-29,East,Bhubaneswar,20.2961,85.8245,Home Office,Furniture,Standing Desk,Anaya Khan,4362.55,1389.39,9,0.05
+2024-04-01,North,Chandigarh,30.7333,76.7794,Home Office,Office Supplies,Laser Printer,Diya Sharma,854.22,-224.19,11,0.15
+2024-04-07,South,Chennai,13.0827,80.2707,Consumer,Clothing,External Hard Drive,Anaya Reddy,71.69,-3.92,3,0.2
+2024-04-15,East,Kolkata,22.5726,88.3639,Home Office,Electronics,External Hard Drive,Aditya Mehta,1861.16,220.94,14,0.0
+2024-04-19,West,Pune,18.5204,73.8567,Home Office,Electronics,Cotton T-Shirt,Neha Singh,5567.76,849.68,11,0.05
+2024-04-20,South,Bengaluru,12.9716,77.5946,Corporate,Clothing,Winter Jacket,Isha Sharma,2163.94,780.5,14,0.3
+2024-04-21,West,Pune,18.5204,73.8567,Corporate,Electronics,Laser Printer,Rohan Verma,1620.52,243.68,10,0.15
+2024-04-24,West,Mumbai,19.076,72.8777,Home Office,Clothing,Notebook Pack,Isha Khan,3907.89,429.36,8,0.15
+2024-04-30,East,Kolkata,22.5726,88.3639,Home Office,Technology,Cotton T-Shirt,Aarav Sharma,5305.03,-1389.37,13,0.3
+2024-05-04,South,Chennai,13.0827,80.2707,Home Office,Clothing,4-Drawer Cabinet,Priya Singh,3149.02,-349.93,7,0.0
+2024-05-06,West,Pune,18.5204,73.8567,Consumer,Electronics,27in Monitor,Neha Das,1032.46,205.88,5,0.3
+2024-05-09,North,Chandigarh,30.7333,76.7794,Home Office,Electronics,External Hard Drive,Vivaan Bose,991.29,31.86,11,0.1
+2024-05-12,South,Chennai,13.0827,80.2707,Corporate,Office Supplies,27in Monitor,Dev Joshi,4693.19,-718.11,10,0.05
+2024-05-13,West,Mumbai,19.076,72.8777,Consumer,Furniture,Laser Printer,Priya Bose,3253.6,1303.81,8,0.3
+2024-05-13,South,Bengaluru,12.9716,77.5946,Consumer,Clothing,LED Desk Lamp,Meera Verma,2348.64,-544.94,12,0.0
+2024-05-16,South,Bengaluru,12.9716,77.5946,Home Office,Technology,Notebook Pack,Kabir Rao,1222.43,58.28,3,0.3
+2024-05-18,South,Bengaluru,12.9716,77.5946,Home Office,Electronics,Standing Desk,Priya Rao,500.92,165.79,1,0.1
+2024-05-20,North,Delhi,28.7041,77.1025,Corporate,Electronics,Bluetooth Speaker,Priya Gupta,7871.7,294.58,15,0.0
+2024-05-27,East,Bhubaneswar,20.2961,85.8245,Consumer,Electronics,Notebook Pack,Priya Sharma,1598.75,733.17,12,0.15
+2024-05-29,East,Kolkata,22.5726,88.3639,Consumer,Office Supplies,Winter Jacket,Aditya Gupta,1640.77,-179.53,6,0.3
+2024-05-31,North,Delhi,28.7041,77.1025,Home Office,Electronics,4-Drawer Cabinet,Neha Joshi,3770.64,274.38,12,0.0
+2024-06-03,South,Chennai,13.0827,80.2707,Corporate,Technology,Cotton T-Shirt,Diya Reddy,1977.98,-341.91,12,0.2
+2024-06-03,South,Chennai,13.0827,80.2707,Home Office,Electronics,Whiteboard,Diya Gupta,440.15,-97.53,2,0.1
+2024-06-03,South,Bengaluru,12.9716,77.5946,Home Office,Office Supplies,Wireless Mouse,Isha Sharma,4039.02,-22.65,8,0.05
+2024-06-09,North,Chandigarh,30.7333,76.7794,Home Office,Office Supplies,Ergo Office Chair,Diya Patel,243.11,39.2,1,0.0
+2024-06-12,North,Chandigarh,30.7333,76.7794,Consumer,Electronics,4-Drawer Cabinet,Vivaan Gupta,1441.58,677.87,4,0.1
+2024-06-17,South,Chennai,13.0827,80.2707,Home Office,Clothing,Winter Jacket,Sara Sharma,954.0,128.83,9,0.2
+2024-06-18,South,Bengaluru,12.9716,77.5946,Consumer,Technology,4-Drawer Cabinet,Aditya Mehta,3292.49,142.79,12,0.1
+2024-06-21,East,Bhubaneswar,20.2961,85.8245,Consumer,Technology,Office Sofa,Isha Nair,1486.87,292.07,9,0.2
+2024-06-24,South,Bengaluru,12.9716,77.5946,Home Office,Furniture,Standing Desk,Anaya Khan,3476.25,1363.84,10,0.1
+2024-06-26,North,Chandigarh,30.7333,76.7794,Corporate,Office Supplies,Office Sofa,Diya Khan,3337.92,468.13,10,0.05
+2024-06-27,East,Kolkata,22.5726,88.3639,Home Office,Furniture,Standing Desk,Aditya Khan,806.35,-34.48,5,0.0
+2024-06-28,North,Chandigarh,30.7333,76.7794,Consumer,Electronics,Laser Printer,Vivaan Joshi,35.55,1.38,2,0.2
+2024-07-02,North,Chandigarh,30.7333,76.7794,Corporate,Electronics,Laser Printer,Vivaan Rao,1090.79,149.95,5,0.05
+2024-07-03,East,Kolkata,22.5726,88.3639,Consumer,Office Supplies,Notebook Pack,Neha Singh,3075.95,-596.53,9,0.05
+2024-07-05,North,Chandigarh,30.7333,76.7794,Corporate,Clothing,Notebook Pack,Karan Patel,1706.46,150.88,12,0.15
+2024-07-15,North,Delhi,28.7041,77.1025,Corporate,Furniture,Standing Desk,Sara Das,1004.97,152.27,8,0.15
+2024-07-18,East,Kolkata,22.5726,88.3639,Consumer,Technology,4-Drawer Cabinet,Kabir Patel,1885.21,75.75,10,0.15
+2024-07-20,West,Pune,18.5204,73.8567,Home Office,Electronics,Wireless Mouse,Rohan Verma,479.4,6.95,3,0.05
+2024-07-21,East,Bhubaneswar,20.2961,85.8245,Corporate,Furniture,4-Drawer Cabinet,Rohan Bose,698.1,43.62,2,0.0
+2024-07-22,West,Pune,18.5204,73.8567,Consumer,Electronics,Office Sofa,Karan Reddy,2116.88,-355.17,12,0.3
+2024-07-22,North,Chandigarh,30.7333,76.7794,Corporate,Electronics,Cotton T-Shirt,Tara Singh,376.38,69.49,9,0.15
+2024-07-23,West,Pune,18.5204,73.8567,Home Office,Furniture,LED Desk Lamp,Arjun Reddy,2825.42,464.24,14,0.15
+2024-07-30,West,Pune,18.5204,73.8567,Corporate,Clothing,External Hard Drive,Anaya Khan,217.08,69.84,2,0.1
+2024-07-31,East,Kolkata,22.5726,88.3639,Corporate,Technology,Mechanical Keyboard,Kabir Verma,101.05,26.0,1,0.05
+2024-08-14,West,Pune,18.5204,73.8567,Home Office,Office Supplies,Office Sofa,Aarav Singh,679.86,175.46,6,0.0
+2024-08-14,East,Kolkata,22.5726,88.3639,Corporate,Electronics,Office Sofa,Kabir Khan,292.6,-118.46,2,0.3
+2024-08-15,South,Bengaluru,12.9716,77.5946,Consumer,Office Supplies,Office Sofa,Diya Reddy,3005.4,11.43,15,0.2
+2024-08-15,East,Kolkata,22.5726,88.3639,Home Office,Technology,27in Monitor,Aarav Nair,1588.92,503.27,4,0.3
+2024-08-18,North,Delhi,28.7041,77.1025,Home Office,Electronics,Laser Printer,Diya Singh,6405.74,1982.13,11,0.0
+2024-08-19,South,Chennai,13.0827,80.2707,Home Office,Office Supplies,Cotton T-Shirt,Sara Bose,6758.64,2197.37,12,0.0
+2024-08-26,North,Delhi,28.7041,77.1025,Consumer,Clothing,Whiteboard,Neha Mehta,1741.75,-208.25,8,0.1
+2024-08-28,West,Mumbai,19.076,72.8777,Corporate,Clothing,Office Sofa,Sara Gupta,398.43,81.29,2,0.15
+2024-08-30,West,Pune,18.5204,73.8567,Home Office,Office Supplies,External Hard Drive,Tara Iyer,676.77,177.85,15,0.15
+2024-09-01,West,Pune,18.5204,73.8567,Consumer,Furniture,Wireless Mouse,Isha Gupta,3950.0,-81.06,11,0.15
+2024-09-05,South,Bengaluru,12.9716,77.5946,Corporate,Office Supplies,Office Sofa,Kabir Mehta,302.95,71.96,5,0.0
+2024-09-15,North,Chandigarh,30.7333,76.7794,Home Office,Electronics,4-Drawer Cabinet,Meera Sharma,2969.5,189.71,11,0.3
+2024-09-21,South,Chennai,13.0827,80.2707,Corporate,Furniture,Cotton T-Shirt,Kabir Singh,1361.05,130.61,7,0.1
+2024-09-25,North,Chandigarh,30.7333,76.7794,Consumer,Office Supplies,27in Monitor,Karan Singh,414.24,-21.52,12,0.2
+2024-09-28,West,Mumbai,19.076,72.8777,Home Office,Clothing,Ergo Office Chair,Priya Bose,4370.32,1604.48,8,0.0
+2024-09-28,South,Chennai,13.0827,80.2707,Consumer,Furniture,Ergo Office Chair,Vivaan Iyer,4697.64,-945.9,12,0.0
+2024-09-30,East,Kolkata,22.5726,88.3639,Consumer,Electronics,27in Monitor,Aditya Patel,181.26,16.44,5,0.05
+2024-10-03,East,Bhubaneswar,20.2961,85.8245,Home Office,Office Supplies,Notebook Pack,Dev Bose,27.05,-1.59,1,0.1
+2024-10-03,East,Kolkata,22.5726,88.3639,Home Office,Furniture,Standing Desk,Vivaan Gupta,846.08,173.26,8,0.2
+2024-10-11,East,Bhubaneswar,20.2961,85.8245,Home Office,Clothing,Denim Jeans,Isha Verma,3576.19,616.17,14,0.15
+2024-10-13,North,Delhi,28.7041,77.1025,Home Office,Furniture,Mechanical Keyboard,Isha Rao,2268.9,-43.68,8,0.05
+2024-10-20,East,Bhubaneswar,20.2961,85.8245,Corporate,Electronics,Laser Printer,Tara Bose,7067.52,-655.13,15,0.1
+2024-10-20,South,Bengaluru,12.9716,77.5946,Consumer,Technology,Denim Jeans,Rohan Singh,2673.8,1121.86,15,0.15
+2024-10-24,West,Mumbai,19.076,72.8777,Consumer,Electronics,Mechanical Keyboard,Aarav Reddy,3983.85,1163.01,11,0.2
+2024-10-25,East,Kolkata,22.5726,88.3639,Home Office,Office Supplies,Winter Jacket,Dev Patel,937.85,355.98,3,0.05
+2024-11-03,West,Mumbai,19.076,72.8777,Corporate,Clothing,Standing Desk,Dev Das,2541.29,123.53,9,0.3
+2024-11-03,South,Bengaluru,12.9716,77.5946,Corporate,Electronics,External Hard Drive,Kabir Rao,183.05,15.52,5,0.3
+2024-11-06,East,Kolkata,22.5726,88.3639,Corporate,Office Supplies,Wireless Mouse,Aditya Bose,5176.55,1319.68,10,0.05
+2024-11-07,East,Kolkata,22.5726,88.3639,Corporate,Electronics,Whiteboard,Rohan Das,421.57,-28.14,2,0.15
+2024-11-11,North,Chandigarh,30.7333,76.7794,Consumer,Electronics,Cotton T-Shirt,Aditya Reddy,1585.31,470.05,5,0.05
+2024-11-15,North,Delhi,28.7041,77.1025,Consumer,Office Supplies,Notebook Pack,Diya Mehta,1021.96,111.02,4,0.0
+2024-11-16,West,Mumbai,19.076,72.8777,Home Office,Clothing,Notebook Pack,Dev Sharma,204.53,28.09,1,0.05
+2024-12-03,South,Bengaluru,12.9716,77.5946,Corporate,Technology,Notebook Pack,Kabir Nair,4767.48,2214.8,15,0.15
+2024-12-08,East,Bhubaneswar,20.2961,85.8245,Consumer,Office Supplies,Bluetooth Speaker,Priya Nair,5455.76,1446.0,15,0.05
+2024-12-09,West,Mumbai,19.076,72.8777,Consumer,Clothing,Ergo Office Chair,Arjun Gupta,1016.68,121.95,14,0.0
+2024-12-12,South,Bengaluru,12.9716,77.5946,Corporate,Electronics,27in Monitor,Aditya Rao,2717.64,155.21,15,0.2
+2024-12-14,North,Delhi,28.7041,77.1025,Consumer,Technology,Office Sofa,Meera Bose,3207.83,696.74,14,0.3
+2024-12-18,West,Mumbai,19.076,72.8777,Home Office,Technology,Bluetooth Speaker,Kabir Khan,504.95,-65.71,2,0.1
+2024-12-18,East,Kolkata,22.5726,88.3639,Corporate,Furniture,Laser Printer,Anaya Verma,1973.75,232.12,5,0.3
+2024-12-24,West,Pune,18.5204,73.8567,Consumer,Furniture,Cotton T-Shirt,Vivaan Iyer,3672.0,539.68,14,0.05
+2024-12-25,South,Chennai,13.0827,80.2707,Consumer,Furniture,Cotton T-Shirt,Sara Gupta,2204.54,713.29,13,0.0
+2024-12-28,North,Delhi,28.7041,77.1025,Consumer,Technology,Mechanical Keyboard,Isha Sharma,1054.7,188.46,4,0.3
+2024-12-29,North,Chandigarh,30.7333,76.7794,Home Office,Technology,External Hard Drive,Sara Patel,5833.29,-256.88,11,0.05
+2025-01-02,East,Kolkata,22.5726,88.3639,Home Office,Clothing,External Hard Drive,Isha Verma,305.12,35.18,2,0.2
+2025-01-03,West,Pune,18.5204,73.8567,Consumer,Technology,Bluetooth Speaker,Meera Joshi,4601.63,608.07,11,0.0
+2025-01-03,East,Bhubaneswar,20.2961,85.8245,Corporate,Furniture,4-Drawer Cabinet,Aarav Bose,217.7,32.18,4,0.3
+2025-01-03,East,Bhubaneswar,20.2961,85.8245,Home Office,Technology,Office Sofa,Aarav Verma,4525.35,1085.68,14,0.3
+2025-01-04,South,Bengaluru,12.9716,77.5946,Corporate,Furniture,Whiteboard,Tara Mehta,4144.32,-154.27,9,0.0
+2025-01-04,West,Mumbai,19.076,72.8777,Home Office,Clothing,Mechanical Keyboard,Anaya Das,772.24,-13.34,8,0.3
+2025-01-04,West,Pune,18.5204,73.8567,Corporate,Furniture,LED Desk Lamp,Anaya Gupta,3666.47,598.7,11,0.1
+2025-01-04,North,Delhi,28.7041,77.1025,Consumer,Furniture,4-Drawer Cabinet,Priya Patel,2098.17,217.17,5,0.05
+2025-01-09,East,Kolkata,22.5726,88.3639,Corporate,Technology,Whiteboard,Dev Das,191.87,89.78,1,0.2
+2025-01-12,South,Bengaluru,12.9716,77.5946,Consumer,Furniture,Cotton T-Shirt,Dev Joshi,884.49,68.16,11,0.2
+2025-01-16,South,Chennai,13.0827,80.2707,Corporate,Furniture,Cotton T-Shirt,Aarav Verma,4439.36,2461.92,11,0.1
+2025-01-20,North,Delhi,28.7041,77.1025,Consumer,Clothing,Standing Desk,Kabir Khan,4105.63,394.35,15,0.15
+2025-01-25,North,Chandigarh,30.7333,76.7794,Corporate,Furniture,Office Sofa,Meera Bose,2190.3,-91.09,15,0.0
+2025-01-26,North,Delhi,28.7041,77.1025,Corporate,Electronics,LED Desk Lamp,Meera Reddy,1040.69,-16.9,8,0.1
+2025-01-28,East,Bhubaneswar,20.2961,85.8245,Consumer,Clothing,Whiteboard,Sara Nair,2631.2,-382.73,9,0.1
+2025-02-01,West,Mumbai,19.076,72.8777,Corporate,Office Supplies,LED Desk Lamp,Isha Verma,5565.46,873.31,13,0.1
+2025-02-07,South,Bengaluru,12.9716,77.5946,Consumer,Technology,Whiteboard,Rohan Singh,3823.75,910.69,10,0.3
+2025-02-09,West,Mumbai,19.076,72.8777,Consumer,Furniture,27in Monitor,Meera Iyer,4314.05,143.83,15,0.05
+2025-02-14,East,Kolkata,22.5726,88.3639,Corporate,Furniture,LED Desk Lamp,Kabir Mehta,1763.34,706.64,14,0.15
+2025-02-15,East,Kolkata,22.5726,88.3639,Consumer,Clothing,4-Drawer Cabinet,Rohan Patel,1256.77,258.45,3,0.15
+2025-02-17,South,Bengaluru,12.9716,77.5946,Home Office,Office Supplies,Winter Jacket,Meera Verma,1990.01,87.97,12,0.1
+2025-02-19,South,Bengaluru,12.9716,77.5946,Home Office,Electronics,Wireless Mouse,Anaya Joshi,769.64,168.84,2,0.3
+2025-02-24,East,Kolkata,22.5726,88.3639,Consumer,Clothing,Mechanical Keyboard,Karan Verma,2616.38,115.42,14,0.05
+2025-03-06,West,Pune,18.5204,73.8567,Home Office,Furniture,Denim Jeans,Priya Reddy,5605.17,-1230.19,13,0.05
+2025-03-08,South,Chennai,13.0827,80.2707,Corporate,Clothing,External Hard Drive,Sara Rao,448.77,144.95,1,0.1
+2025-03-08,West,Mumbai,19.076,72.8777,Corporate,Furniture,Denim Jeans,Dev Rao,260.28,120.58,1,0.2
+2025-03-09,West,Pune,18.5204,73.8567,Consumer,Clothing,Winter Jacket,Sara Gupta,1361.25,476.73,11,0.0
+2025-03-14,North,Delhi,28.7041,77.1025,Consumer,Electronics,Notebook Pack,Vivaan Joshi,499.22,-73.48,2,0.2
+2025-03-17,North,Chandigarh,30.7333,76.7794,Corporate,Furniture,Winter Jacket,Priya Das,366.73,0.65,2,0.3
+2025-03-21,South,Bengaluru,12.9716,77.5946,Consumer,Electronics,Cotton T-Shirt,Sara Sharma,1372.34,305.54,7,0.2
+2025-03-21,East,Kolkata,22.5726,88.3639,Consumer,Furniture,LED Desk Lamp,Neha Das,1313.38,270.22,6,0.3
+2025-03-25,West,Pune,18.5204,73.8567,Consumer,Office Supplies,27in Monitor,Priya Khan,758.95,36.05,9,0.2
+2025-03-27,West,Mumbai,19.076,72.8777,Consumer,Clothing,Denim Jeans,Aditya Sharma,3573.11,1190.48,12,0.3
+2025-03-27,East,Bhubaneswar,20.2961,85.8245,Corporate,Clothing,Cotton T-Shirt,Karan Nair,773.23,134.16,13,0.05
+2025-03-30,South,Chennai,13.0827,80.2707,Consumer,Clothing,Standing Desk,Kabir Iyer,6816.58,1172.18,13,0.05
+2025-04-02,North,Chandigarh,30.7333,76.7794,Consumer,Furniture,Ergo Office Chair,Meera Rao,1079.3,-188.4,8,0.15
+2025-04-03,South,Bengaluru,12.9716,77.5946,Consumer,Technology,Notebook Pack,Priya Reddy,1835.12,80.46,14,0.0
+2025-04-04,East,Bhubaneswar,20.2961,85.8245,Consumer,Clothing,Mechanical Keyboard,Tara Singh,2657.69,65.42,7,0.0
+2025-04-06,West,Pune,18.5204,73.8567,Consumer,Electronics,Winter Jacket,Anaya Gupta,3990.54,764.84,11,0.05
+2025-04-08,South,Chennai,13.0827,80.2707,Consumer,Electronics,Standing Desk,Aarav Bose,2618.75,103.16,11,0.15
+2025-04-25,West,Pune,18.5204,73.8567,Corporate,Clothing,Wireless Mouse,Karan Singh,328.59,-20.09,1,0.2
+2025-04-26,South,Bengaluru,12.9716,77.5946,Consumer,Furniture,Cotton T-Shirt,Karan Verma,2822.18,356.08,7,0.2
+2025-04-29,West,Mumbai,19.076,72.8777,Home Office,Electronics,Wireless Mouse,Priya Rao,718.17,244.23,3,0.0
+2025-05-01,South,Chennai,13.0827,80.2707,Corporate,Furniture,Cotton T-Shirt,Anaya Rao,2007.4,206.67,6,0.1
+2025-05-06,South,Chennai,13.0827,80.2707,Corporate,Furniture,4-Drawer Cabinet,Diya Nair,1360.88,209.58,7,0.15
+2025-05-06,East,Bhubaneswar,20.2961,85.8245,Corporate,Furniture,LED Desk Lamp,Tara Mehta,485.63,167.21,1,0.15
+2025-05-08,North,Delhi,28.7041,77.1025,Corporate,Office Supplies,Laser Printer,Meera Mehta,3559.54,147.89,8,0.05
+2025-05-09,East,Bhubaneswar,20.2961,85.8245,Consumer,Clothing,Denim Jeans,Isha Nair,4346.8,404.1,8,0.0
+2025-05-10,West,Pune,18.5204,73.8567,Consumer,Clothing,Bluetooth Speaker,Isha Sharma,1172.13,254.81,4,0.2
+2025-05-15,West,Pune,18.5204,73.8567,Consumer,Technology,4-Drawer Cabinet,Karan Nair,1210.17,-90.7,9,0.05
+2025-05-19,East,Bhubaneswar,20.2961,85.8245,Corporate,Technology,Bluetooth Speaker,Anaya Gupta,2023.65,-145.77,11,0.2
+2025-05-22,West,Pune,18.5204,73.8567,Corporate,Clothing,LED Desk Lamp,Karan Gupta,2600.08,-499.15,9,0.15
+2025-05-25,South,Chennai,13.0827,80.2707,Consumer,Office Supplies,LED Desk Lamp,Anaya Mehta,2450.63,161.08,5,0.15
+2025-05-25,West,Pune,18.5204,73.8567,Consumer,Furniture,Bluetooth Speaker,Diya Iyer,5251.95,1101.62,9,0.0
+2025-05-27,East,Bhubaneswar,20.2961,85.8245,Consumer,Electronics,Wireless Mouse,Meera Rao,2184.91,533.59,11,0.15
+2025-05-28,North,Chandigarh,30.7333,76.7794,Home Office,Office Supplies,4-Drawer Cabinet,Isha Nair,1708.13,311.04,12,0.1
+2025-06-03,North,Chandigarh,30.7333,76.7794,Home Office,Clothing,Laser Printer,Karan Joshi,1045.02,467.26,4,0.2
+2025-06-10,West,Pune,18.5204,73.8567,Consumer,Technology,Winter Jacket,Isha Das,264.74,-28.98,2,0.2
+2025-06-13,West,Pune,18.5204,73.8567,Consumer,Clothing,27in Monitor,Isha Reddy,188.19,-23.19,2,0.1
+2025-06-14,East,Kolkata,22.5726,88.3639,Corporate,Clothing,Mechanical Keyboard,Meera Iyer,4992.49,-320.29,13,0.05
+2025-06-15,East,Bhubaneswar,20.2961,85.8245,Corporate,Technology,4-Drawer Cabinet,Isha Rao,702.45,105.25,7,0.1
+2025-06-24,North,Chandigarh,30.7333,76.7794,Home Office,Technology,Standing Desk,Aditya Sharma,5653.73,-220.51,15,0.15
+2025-06-25,West,Mumbai,19.076,72.8777,Corporate,Clothing,27in Monitor,Aarav Sharma,1685.89,454.75,4,0.15
+2025-06-29,North,Chandigarh,30.7333,76.7794,Home Office,Office Supplies,Mechanical Keyboard,Priya Gupta,208.01,88.95,2,0.3
+2025-07-04,South,Chennai,13.0827,80.2707,Consumer,Office Supplies,Ergo Office Chair,Arjun Singh,840.89,70.31,2,0.15
+2025-07-08,North,Delhi,28.7041,77.1025,Home Office,Office Supplies,Notebook Pack,Aditya Bose,723.66,-78.37,5,0.05
+2025-07-10,North,Chandigarh,30.7333,76.7794,Home Office,Clothing,4-Drawer Cabinet,Isha Gupta,5325.57,755.33,13,0.05
+2025-07-12,East,Kolkata,22.5726,88.3639,Corporate,Technology,Cotton T-Shirt,Dev Verma,743.99,241.91,9,0.1
+2025-07-13,South,Bengaluru,12.9716,77.5946,Home Office,Furniture,Office Sofa,Rohan Singh,3007.42,320.68,14,0.3
+2025-07-14,South,Chennai,13.0827,80.2707,Corporate,Furniture,Whiteboard,Karan Mehta,925.66,352.47,4,0.2
+2025-07-16,South,Chennai,13.0827,80.2707,Consumer,Office Supplies,Laser Printer,Aarav Iyer,1985.48,265.31,14,0.3
+2025-07-18,North,Delhi,28.7041,77.1025,Consumer,Furniture,Office Sofa,Anaya Verma,4303.53,-599.47,11,0.1
+2025-07-23,East,Bhubaneswar,20.2961,85.8245,Corporate,Electronics,Mechanical Keyboard,Aarav Verma,4884.33,503.83,11,0.0
+2025-07-24,North,Chandigarh,30.7333,76.7794,Home Office,Office Supplies,Bluetooth Speaker,Sara Rao,372.62,96.45,2,0.15
+2025-07-26,West,Pune,18.5204,73.8567,Corporate,Electronics,4-Drawer Cabinet,Arjun Bose,2379.65,398.5,8,0.2
+2025-07-28,East,Kolkata,22.5726,88.3639,Corporate,Clothing,Ergo Office Chair,Sara Verma,652.99,-88.73,4,0.3
+2025-07-29,West,Pune,18.5204,73.8567,Consumer,Furniture,Winter Jacket,Diya Singh,3331.38,569.6,13,0.0
+2025-08-01,West,Mumbai,19.076,72.8777,Consumer,Office Supplies,External Hard Drive,Tara Das,1433.88,-131.12,3,0.2
+2025-08-03,South,Bengaluru,12.9716,77.5946,Corporate,Office Supplies,Office Sofa,Aarav Joshi,3971.24,583.57,13,0.0
+2025-08-04,East,Bhubaneswar,20.2961,85.8245,Corporate,Clothing,Denim Jeans,Rohan Iyer,891.98,15.52,2,0.2
+2025-08-16,East,Bhubaneswar,20.2961,85.8245,Consumer,Electronics,Bluetooth Speaker,Neha Khan,999.72,312.53,14,0.15
+2025-08-17,North,Delhi,28.7041,77.1025,Consumer,Furniture,Standing Desk,Kabir Patel,2174.36,629.61,10,0.05
+2025-08-22,East,Bhubaneswar,20.2961,85.8245,Consumer,Technology,Ergo Office Chair,Vivaan Patel,2869.23,243.6,13,0.3
+2025-08-22,West,Mumbai,19.076,72.8777,Home Office,Furniture,Ergo Office Chair,Diya Reddy,3872.05,1093.1,10,0.3
+2025-08-23,West,Pune,18.5204,73.8567,Home Office,Electronics,Whiteboard,Priya Patel,281.09,135.15,2,0.05
+2025-08-28,North,Chandigarh,30.7333,76.7794,Corporate,Clothing,External Hard Drive,Isha Gupta,1086.38,550.57,3,0.15
+2025-08-30,North,Delhi,28.7041,77.1025,Home Office,Office Supplies,Bluetooth Speaker,Anaya Patel,3136.01,-91.83,7,0.15
+2025-08-30,West,Pune,18.5204,73.8567,Corporate,Clothing,Cotton T-Shirt,Anaya Nair,1259.43,574.2,7,0.1
+2025-09-01,East,Bhubaneswar,20.2961,85.8245,Consumer,Clothing,Wireless Mouse,Dev Rao,1176.17,39.62,5,0.3
+2025-09-02,South,Bengaluru,12.9716,77.5946,Corporate,Technology,Winter Jacket,Priya Gupta,370.29,39.36,7,0.3
+2025-09-04,East,Kolkata,22.5726,88.3639,Consumer,Furniture,Bluetooth Speaker,Tara Reddy,645.89,332.78,6,0.2
+2025-09-04,South,Chennai,13.0827,80.2707,Corporate,Furniture,Mechanical Keyboard,Aarav Singh,7131.73,1483.78,14,0.05
+2025-09-06,West,Pune,18.5204,73.8567,Corporate,Office Supplies,Denim Jeans,Diya Singh,42.19,5.75,3,0.3
+2025-09-07,West,Mumbai,19.076,72.8777,Home Office,Office Supplies,Ergo Office Chair,Kabir Reddy,2549.93,1200.69,11,0.3
+2025-09-07,West,Mumbai,19.076,72.8777,Corporate,Clothing,Whiteboard,Tara Khan,299.31,106.21,3,0.0
+2025-09-08,East,Kolkata,22.5726,88.3639,Corporate,Technology,Bluetooth Speaker,Rohan Sharma,2691.49,720.91,7,0.1
+2025-09-08,South,Chennai,13.0827,80.2707,Corporate,Technology,Standing Desk,Rohan Bose,2296.28,500.29,8,0.3
+2025-09-21,South,Chennai,13.0827,80.2707,Corporate,Electronics,Laser Printer,Diya Joshi,684.04,-81.75,2,0.3
+2025-09-22,West,Mumbai,19.076,72.8777,Consumer,Electronics,External Hard Drive,Dev Mehta,4298.18,1317.08,15,0.3
+2025-09-22,North,Delhi,28.7041,77.1025,Home Office,Office Supplies,LED Desk Lamp,Arjun Singh,2302.48,839.84,8,0.0

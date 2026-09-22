@@ -1,0 +1,65 @@
+// ============================================================
+// Week 4: Dashboard Design & Publishing
+// File: DAX_Measures.dax
+// Paste these into Power BI Desktop -> Modeling -> New Measure
+// Table assumed: "Sales" (loaded from dataset/global_superstore_2022.xlsx)
+// ============================================================
+
+Total Sales = SUM(Sales[Sales])
+
+Total Profit = SUM(Sales[Profit])
+
+Total Quantity = SUMX(Sales, Sales[Quantity])
+
+Profit Margin = DIVIDE([Total Profit], [Total Sales], 0)
+
+// ------------------------------------------------------------
+// Bar chart: Category-wise Profit
+// (just drag Category into axis + [Total Profit] into values)
+// ------------------------------------------------------------
+
+// ------------------------------------------------------------
+// Line chart: Monthly Revenue Trend
+// Requires a Date table marked as the official date table for
+// proper month sorting. Example Date table measure:
+// ------------------------------------------------------------
+Monthly Revenue = [Total Sales]
+
+// ------------------------------------------------------------
+// Table: Top 5 Customers
+// Use a Table visual with Customer Name + [Total Sales],
+// then apply a Top N filter (N = 5) on Total Sales, OR use:
+// ------------------------------------------------------------
+Customer Sales Rank =
+RANKX(
+    ALL(Sales[Customer Name]),
+    CALCULATE([Total Sales]),
+    ,
+    DESC
+)
+
+// ------------------------------------------------------------
+// Map visual: Sales by Region
+// Drag Region (or City, with Latitude/Longitude as exact
+// location fields) into the Map visual's Location well and
+// [Total Sales] into Size / Bubble size.
+// ------------------------------------------------------------
+
+// ------------------------------------------------------------
+// Slicers required: Year, Segment, Region
+// Drag Order Date (Year), Segment, Region into separate
+// Slicer visuals.
+// ------------------------------------------------------------
+
+// ------------------------------------------------------------
+// Theme & branding:
+// View -> Themes -> Browse for themes -> import a .json theme file
+// Insert -> Image -> add company logo to report canvas header.
+// ------------------------------------------------------------
+
+// ------------------------------------------------------------
+// Publishing:
+// Home -> Publish -> select workspace -> Power BI Service.
+// After publishing, use "Share" in the Power BI Service to
+// generate a shareable link.
+// ------------------------------------------------------------

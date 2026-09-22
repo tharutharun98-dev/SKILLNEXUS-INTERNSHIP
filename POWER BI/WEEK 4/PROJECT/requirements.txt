@@ -1,0 +1,31 @@
+# Requirements - Week 4: Dashboard Design & Publishing
+
+## Software
+- Power BI Desktop (latest version) - https://www.microsoft.com/power-bi/desktop
+- Windows 10/11 (Power BI Desktop is Windows-only)
+- A Power BI account (free or Pro) to publish to Power BI Service - https://app.powerbi.com
+- Microsoft Excel or Excel Viewer (optional, to inspect the dataset)
+
+## Dataset
+- dataset/global_superstore_2022.xlsx (or .csv)
+- Columns: Order Date, Region, City, Latitude, Longitude, Segment, Category, Product Name, Customer Name, Sales, Profit, Quantity, Discount
+
+## Skills / Concepts Required
+- Map, Bar, Line and Table visuals
+- Drill-through pages and Bookmarks
+- Report themes (View -> Themes) and custom branding (logo, colors)
+- Publishing reports to the Power BI Service and sharing links
+
+## Setup Steps
+1. Open Power BI Desktop.
+2. Home -> Get Data -> Excel -> select dataset/global_superstore_2022.xlsx.
+3. If prompted, click "Transform Data" -> "Use First Row as Headers", then "Close & Apply".
+4. Modeling -> New Measure -> paste each measure from source_code/DAX_Measures.dax.
+5. Build the 4 required visuals:
+   - Map: Sales by Region (use Region or City + Latitude/Longitude, size = Total Sales)
+   - Bar chart: Category-wise Profit
+   - Line chart: Monthly Revenue Trend (needs Order Date on a continuous/date hierarchy axis)
+   - Table: Top 5 Customers (Customer Name + Total Sales, with a Top N filter)
+6. Add Slicer visuals for Year, Segment and Region.
+7. Apply a theme (View -> Themes) and insert your company logo (Insert -> Image).
+8. Publish: Home -> Publish -> choose a workspace -> open in Power BI Service -> File -> "Publish to web" or Share to get a shareable link.
